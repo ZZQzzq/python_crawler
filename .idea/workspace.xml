@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8bef938-6c4d-4e87-93f8-b361ec9242b1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step2.coverage" NAME="step2 Coverage Results" MODIFIED="1491017555852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step5.coverage" NAME="step5 Coverage Results" MODIFIED="1491406406977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$Update_book.coverage" NAME="Update_book Coverage Results" MODIFIED="1496150735514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step8.coverage" NAME="step8 Coverage Results" MODIFIED="1492313818713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step3.coverage" NAME="step3 Coverage Results" MODIFIED="1490529068776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HelloWorld$py_test_in_HtmlManager_py.coverage" NAME="py.test in HtmlManager.py Coverage Results" MODIFIED="1490755889169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step6.coverage" NAME="step6 Coverage Results" MODIFIED="1490515892372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HelloWorld$downloadimg.coverage" NAME="downloadimg Coverage Results" MODIFIED="1490225610561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book_lpic_save.coverage" NAME="book_lpic_save Coverage Results" MODIFIED="1494571489871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$py_test_in_Html_manager_py.coverage" NAME="py.test in Html_manager.py Coverage Results" MODIFIED="1491021009372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$text.coverage" NAME="text Coverage Results" MODIFIED="1490970209947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_book_ui" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$CatchManager.coverage" NAME="CatchManager Coverage Results" MODIFIED="1492791974654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step8.coverage" NAME="movie_step8 Coverage Results" MODIFIED="1492850590313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$addbook_to_crawler.coverage" NAME="addbook_to_crawler Coverage Results" MODIFIED="1494580610388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie__step1.coverage" NAME="movie__step1 Coverage Results" MODIFIED="1492783654263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/HelloWorld$detail_url_threadqueue.coverage" NAME="detail_url_threadqueue Coverage Results" MODIFIED="1490682884254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$add_image_to_bookdetail.coverage" NAME="add_image_to_bookdetail Coverage Results" MODIFIED="1494551617120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HelloWorld$py_test_in_DbManager_py.coverage" NAME="py.test in DbManager.py Coverage Results" MODIFIED="1490224808965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step5.coverage" NAME="step5 Coverage Results" MODIFIED="1490515363464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step1.coverage" NAME="step1 Coverage Results" MODIFIED="1491811612232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step6.coverage" NAME="step6 Coverage Results" MODIFIED="1492784201612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HelloWorld$CatchManager.coverage" NAME="CatchManager Coverage Results" MODIFIED="1490715887647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step8_2.coverage" NAME="movie_step8_2 Coverage Results" MODIFIED="1491466124088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step2.coverage" NAME="movie_step2 Coverage Results" MODIFIED="1491023192114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step5_catchbypage__1_.coverage" NAME="movie_step5_catchbypage (1) Coverage Results" MODIFIED="1491213273605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book_detail_catch.coverage" NAME="book_detail_catch Coverage Results" MODIFIED="1491368344553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book_select.coverage" NAME="book_select Coverage Results" MODIFIED="1490950783305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_book_ui" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step6_keji.coverage" NAME="step6_keji Coverage Results" MODIFIED="1491716084596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step7.coverage" NAME="movie_step7 Coverage Results" MODIFIED="1492839668924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$py_test_in_movie_step3_add_py.coverage" NAME="py.test in movie_step3_add.py Coverage Results" MODIFIED="1491188378589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book_test_ui__1_.coverage" NAME="book_test_ui (1) Coverage Results" MODIFIED="1491659316571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step7.coverage" NAME="step7 Coverage Results" MODIFIED="1491880169715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$pic_save__1_.coverage" NAME="pic_save (1) Coverage Results" MODIFIED="1491987530730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/HelloWorld$py_test_in_TagManager_py.coverage" NAME="py.test in TagManager.py Coverage Results" MODIFIED="1490691811934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HelloWorld$py_test_in_testManyBook.coverage" NAME="py.test in testManyBook Coverage Results" MODIFIED="1490492267032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HelloWorld$py_test_in_DbManager.coverage" NAME="py.test in DbManager Coverage Results" MODIFIED="1490164692652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$py_test_in_Tag_manager_py.coverage" NAME="py.test in Tag_manager.py Coverage Results" MODIFIED="1491461155152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_detail_catch.coverage" NAME="movie_detail_catch Coverage Results" MODIFIED="1491365111650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step6.coverage" NAME="movie_step6 Coverage Results" MODIFIED="1492784344161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_test_ui.coverage" NAME="movie_test_ui Coverage Results" MODIFIED="1496191541693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/HelloWorld$catch_detail_url.coverage" NAME="catch_detail_url Coverage Results" MODIFIED="1490670308682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$File_restore_Manager.coverage" NAME="File_restore_Manager Coverage Results" MODIFIED="1494741048824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$pic_save.coverage" NAME="pic_save Coverage Results" MODIFIED="1494571160702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book_test_ui.coverage" NAME="book_test_ui Coverage Results" MODIFIED="1496150202633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$lpic_save__1_.coverage" NAME="lpic_save (1) Coverage Results" MODIFIED="1492600609553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie/tools" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$ExcelManager.coverage" NAME="ExcelManager Coverage Results" MODIFIED="1491021182725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step1.coverage" NAME="step1 Coverage Results" MODIFIED="1490176272046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step4.coverage" NAME="step4 Coverage Results" MODIFIED="1490510679981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step3.coverage" NAME="movie_step3 Coverage Results" MODIFIED="1491789865127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_lpic_save.coverage" NAME="movie_lpic_save Coverage Results" MODIFIED="1492615704317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie/tools" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step5_catchbypage.coverage" NAME="movie_step5_catchbypage Coverage Results" MODIFIED="1491208264843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie/tools" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step3.coverage" NAME="step3 Coverage Results" MODIFIED="1491879392034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step7.coverage" NAME="step7 Coverage Results" MODIFIED="1490710880603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book_ui__1_.coverage" NAME="book_ui (1) Coverage Results" MODIFIED="1491570363931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book_gui" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book_ui.coverage" NAME="book_ui Coverage Results" MODIFIED="1491530036912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_book_ui" />
+    <SUITE FILE_PATH="coverage/HelloWorld$ProxyManager.coverage" NAME="ProxyManager Coverage Results" MODIFIED="1490687043084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/HelloWorld$ExcelManager.coverage" NAME="ExcelManager Coverage Results" MODIFIED="1490511422252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$py_test_in_TagManager_py.coverage" NAME="py.test in TagManager.py Coverage Results" MODIFIED="1491102096143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step5.coverage" NAME="movie_step5 Coverage Results" MODIFIED="1491205366690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$lpic_save.coverage" NAME="lpic_save Coverage Results" MODIFIED="1492603712775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step2.coverage" NAME="step2 Coverage Results" MODIFIED="1490756783536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step5_add.coverage" NAME="movie_step5_add Coverage Results" MODIFIED="1491207907173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$book.coverage" NAME="book Coverage Results" MODIFIED="1494905466088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$Update_movie.coverage" NAME="Update_movie Coverage Results" MODIFIED="1494933415019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie/tools" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$ProxyManager.coverage" NAME="ProxyManager Coverage Results" MODIFIED="1491359379447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tool" />
+    <SUITE FILE_PATH="coverage/HelloWorld$py_test_in_testBookInfo.coverage" NAME="py.test in testBookInfo Coverage Results" MODIFIED="1490590933557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step3_add.coverage" NAME="movie_step3_add Coverage Results" MODIFIED="1491189523513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+    <SUITE FILE_PATH="coverage/HelloWorld$step8.coverage" NAME="step8 Coverage Results" MODIFIED="1490710534217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step4.coverage" NAME="step4 Coverage Results" MODIFIED="1491373099748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$step6_threading.coverage" NAME="step6_threading Coverage Results" MODIFIED="1491715307355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$imooc_catch_jpg.coverage" NAME="imooc_catch_jpg Coverage Results" MODIFIED="1491899551592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pycharmwork" />
+    <SUITE FILE_PATH="coverage/douban_book_catch_zzq$movie_step4.coverage" NAME="movie_step4 Coverage Results" MODIFIED="1492783051193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/movie" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="movie_test_ui.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui/movie_test_ui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="855" column="23" lean-forward="false" selection-start-line="855" selection-start-column="23" selection-end-line="855" selection-end-column="23" />
+              <folding>
+                <element signature="e#200#209#0" expanded="true" />
+                <element signature="e#707#18939#0" expanded="false" />
+                <element signature="e#746#16448#0" expanded="false" />
+                <element signature="e#947#953#0" expanded="false" />
+                <element signature="e#14955#15784#1" expanded="false" />
+                <element signature="e#16499#18939#0" expanded="false" />
+                <element signature="e#16628#16680#0" expanded="false" />
+                <element signature="e#17956#18015#0" expanded="false" />
+                <element signature="e#18997#36757#0" expanded="false" />
+                <element signature="e#19025#19297#0" expanded="false" />
+                <element signature="e#19345#26482#1" expanded="false" />
+                <element signature="e#26487#26526#0" expanded="false" />
+                <element signature="e#26585#29851#0" expanded="false" />
+                <element signature="e#29912#30670#0" expanded="false" />
+                <element signature="e#30732#32361#0" expanded="false" />
+                <element signature="e#31248#31576#1" expanded="false" />
+                <element signature="e#32420#33038#0" expanded="false" />
+                <element signature="e#33106#33864#0" expanded="false" />
+                <element signature="e#33920#34816#0" expanded="false" />
+                <element signature="e#34880#35262#0" expanded="false" />
+                <element signature="e#35321#36057#0" expanded="false" />
+                <element signature="e#36062#36709#1" expanded="false" />
+                <element signature="e#36787#37889#0" expanded="false" />
+                <element signature="e#36815#36835#0" expanded="false" />
+                <element signature="e#36874#37409#0" expanded="false" />
+                <element signature="e#37456#37564#0" expanded="false" />
+                <element signature="e#37614#37889#0" expanded="false" />
+                <element signature="e#37962#38035#0" expanded="false" />
+                <element signature="e#38072#38962#0" expanded="false" />
+                <element signature="e#38998#39227#0" expanded="false" />
+                <element signature="e#39997#40038#0" expanded="false" />
+                <element signature="e#41137#42216#0" expanded="false" />
+                <element signature="e#42342#43088#0" expanded="false" />
+                <element signature="e#43480#45049#0" expanded="false" />
+                <element signature="e#45086#45152#0" expanded="false" />
+                <element signature="e#48857#49574#0" expanded="false" />
+                <element signature="e#49389#49574#0" expanded="false" />
+                <marker date="1496153419302" expanded="true" signature="19394:20727" ph="..." />
+                <marker date="1496153419302" expanded="true" signature="19594:19685" ph="SELECT movie... movie" />
+                <marker date="1496153419302" expanded="true" signature="19736:19832" ph="SELECT movie... movie" />
+                <marker date="1496153419302" expanded="true" signature="21132:21200" ph="SELECT * FRO... movie_detail" />
+                <marker date="1496153419302" expanded="true" signature="21233:21294" ph="SELECT * FRO... movie" />
+                <marker date="1496153419302" expanded="true" signature="21823:21884" ph="SELECT * FRO... movie" />
+                <marker date="1496153419302" expanded="true" signature="21919:21987" ph="SELECT * FRO... movie_detail" />
+                <marker date="1496153419302" expanded="true" signature="22459:22516" ph="SELECT * FRO... movie" />
+                <marker date="1496153419302" expanded="true" signature="22551:22615" ph="SELECT * FRO... movie_detail" />
+                <marker date="1496153419302" expanded="true" signature="23247:23448" ph="..." />
+                <marker date="1496153419302" expanded="true" signature="23509:23644" ph="..." />
+                <marker date="1496153419302" expanded="false" signature="23693:24596" ph="..." />
+                <marker date="1496153419302" expanded="true" signature="23967:24103" ph="INSERT INTO `user_data`... " />
+                <marker date="1496153419302" expanded="false" signature="24117:24450" ph="..." />
+                <marker date="1496153419302" expanded="false" signature="24654:25045" ph="..." />
+                <marker date="1496153419302" expanded="true" signature="24758:24818" ph="DELETE FROM " />
+                <marker date="1496153419302" expanded="true" signature="25171:25195" ph="select * fro... " />
+                <marker date="1496153419302" expanded="true" signature="25171:25196" ph="select * fro... user_data" />
+                <marker date="1496153419302" expanded="true" signature="26800:26876" ph="SELECT movie... movie" />
+                <marker date="1496153419302" expanded="true" signature="26935:27016" ph="SELECT movie... movie" />
+                <marker date="1496153419302" expanded="true" signature="32590:32647" ph="SELECT * FRO... movie" />
+                <marker date="1496153419302" expanded="true" signature="32682:32746" ph="SELECT * FRO... movie_detail" />
+                <marker date="1496153419302" expanded="true" signature="34185:34321" ph="INSERT INTO `user_data`... " />
+                <marker date="1496153419302" expanded="true" signature="34975:35035" ph="DELETE FROM " />
+                <marker date="1496153419302" expanded="true" signature="35387:35412" ph="select * fro... user_data" />
+                <marker date="1496153419302" expanded="true" signature="39812:39882" ph="SELECT * FRO... movies_movie" />
+                <marker date="1496153419302" expanded="true" signature="40122:40186" ph="select * fro... movies_movie" />
+                <marker date="1496153419302" expanded="true" signature="40356:40628" ph="INSERT INTO `movies_movie`... " />
+                <marker date="1496153419302" expanded="true" signature="41156:41226" ph="select * fro... movies_moviedetail" />
+                <marker date="1496153419302" expanded="true" signature="41404:41861" ph="INSERT INTO `movies_moviedetail`... " />
+                <marker date="1496153419302" expanded="true" signature="44020:44099" ph="UPDATE `movi... " />
+                <marker date="1496153419302" expanded="true" signature="44388:44473" ph="UPDATE `movi... " />
+                <marker date="1496153419302" expanded="true" signature="45442:45511" ph="SELECT * FRO... movies_movie" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book_test_ui.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui/book_test_ui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="874" column="49" lean-forward="false" selection-start-line="874" selection-start-column="49" selection-end-line="874" selection-end-column="49" />
+              <folding>
+                <element signature="e#200#209#0" expanded="true" />
+                <element signature="e#694#16251#0" expanded="false" />
+                <element signature="e#733#13608#0" expanded="false" />
+                <element signature="e#13659#16251#0" expanded="false" />
+                <element signature="e#15895#16251#1" expanded="false" />
+                <element signature="e#16309#34032#0" expanded="false" />
+                <element signature="e#16656#23745#1" expanded="false" />
+                <element signature="e#23846#26981#0" expanded="false" />
+                <element signature="e#24675#25123#0" expanded="false" />
+                <element signature="e#26868#26924#0" expanded="false" />
+                <element signature="e#27042#27802#0" expanded="false" />
+                <element signature="e#27863#29441#0" expanded="false" />
+                <element signature="e#29500#30110#0" expanded="false" />
+                <element signature="e#30176#30841#0" expanded="false" />
+                <element signature="e#30897#32138#0" expanded="false" />
+                <element signature="e#32202#32587#0" expanded="false" />
+                <element signature="e#32646#33379#0" expanded="false" />
+                <element signature="e#33385#34032#1" expanded="false" />
+                <element signature="e#34062#35164#0" expanded="false" />
+                <element signature="e#34090#34110#0" expanded="false" />
+                <element signature="e#34149#34684#0" expanded="false" />
+                <element signature="e#34889#35164#0" expanded="false" />
+                <element signature="e#35347#36235#0" expanded="false" />
+                <element signature="e#36283#36512#0" expanded="false" />
+                <element signature="e#37415#38268#0" expanded="false" />
+                <element signature="e#38336#38427#0" expanded="false" />
+                <element signature="e#40798#40908#0" expanded="false" />
+                <element signature="e#41028#42568#0" expanded="false" />
+                <element signature="e#42605#42671#0" expanded="false" />
+                <element signature="e#42703#45598#0" expanded="false" />
+                <element signature="e#42833#42909#0" expanded="false" />
+                <element signature="e#45628#46307#0" expanded="false" />
+                <element signature="e#46348#47064#0" expanded="false" />
+                <marker date="1496150195636" expanded="true" signature="24039:24111" ph="SELECT book_... book" />
+                <marker date="1496150195636" expanded="true" signature="24162:24239" ph="SELECT book_... book" />
+                <marker date="1496150195636" expanded="true" signature="29669:29723" ph="SELECT * FRO... book" />
+                <marker date="1496150195636" expanded="true" signature="29758:29819" ph="SELECT * FRO... book_detail" />
+                <marker date="1496150195636" expanded="true" signature="31161:31236" ph="select book_... book_tag" />
+                <marker date="1496150195636" expanded="true" signature="31412:31585" ph="INSERT INTO `user_data`... " />
+                <marker date="1496150195636" expanded="true" signature="32296:32357" ph="DELETE FROM " />
+                <marker date="1496150195636" expanded="true" signature="32712:32737" ph="select * fro... user_data" />
+                <marker date="1496150195636" expanded="true" signature="37092:37157" ph="SELECT * FRO... book_book" />
+                <marker date="1496150195636" expanded="true" signature="37427:37486" ph="select * fro... book_book" />
+                <marker date="1496150195636" expanded="true" signature="37644:37858" ph="INSERT INTO `book_book`... " />
+                <marker date="1496150195636" expanded="true" signature="37644:37864" ph="INSERT INTO `book_book`... " />
+                <marker date="1496150195636" expanded="true" signature="37644:37871" ph="INSERT INTO `book_book`... " />
+                <marker date="1496150195636" expanded="true" signature="37644:37926" ph="INSERT INTO `book_book`... " />
+                <marker date="1496150195636" expanded="true" signature="38532:38597" ph="select * fro... book_bookdetail" />
+                <marker date="1496150195636" expanded="true" signature="38775:39231" ph="INSERT INTO `book_bookdetail`... " />
+                <marker date="1496150195636" expanded="true" signature="41561:41635" ph="UPDATE `book... " />
+                <marker date="1496150195636" expanded="true" signature="41922:42002" ph="UPDATE `book... " />
+                <marker date="1496150195636" expanded="true" signature="42958:43022" ph="SELECT * FRO... book_book" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TagManager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tool/TagManager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4462">
+              <caret line="321" column="214" lean-forward="false" selection-start-line="321" selection-start-column="196" selection-end-line="321" selection-end-column="214" />
+              <folding>
+                <element signature="e#1521#5016#1" expanded="false" />
+                <element signature="e#8062#9646#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Update_movie.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/movie/tools/Update_movie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="52" column="49" lean-forward="false" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+              <folding>
+                <element signature="e#94#105#0" expanded="true" />
+                <element signature="e#555#1659#0" expanded="false" />
+                <element signature="e#583#603#0" expanded="false" />
+                <element signature="e#642#1177#0" expanded="false" />
+                <element signature="e#1224#1332#0" expanded="false" />
+                <element signature="e#1382#1659#0" expanded="false" />
+                <element signature="e#1697#5225#0" expanded="false" />
+                <element signature="e#4005#4467#0" expanded="false" />
+                <element signature="e#4090#4467#0" expanded="false" />
+                <element signature="e#4223#4307#0" expanded="false" />
+                <element signature="e#4374#4467#0" expanded="false" />
+                <element signature="e#5272#6684#0" expanded="false" />
+                <element signature="e#6720#10922#0" expanded="false" />
+                <element signature="e#7123#10821#0" expanded="false" />
+                <element signature="e#10960#16844#0" expanded="false" />
+                <element signature="e#11549#16773#0" expanded="false" />
+                <element signature="e#11696#11860#1" expanded="false" />
+                <element signature="e#12425#12482#0" expanded="false" />
+                <element signature="e#12689#12743#0" expanded="false" />
+                <element signature="e#15176#15601#0" expanded="false" />
+                <element signature="e#15673#15742#0" expanded="false" />
+                <element signature="e#15800#16277#0" expanded="false" />
+                <element signature="e#16328#16389#0" expanded="false" />
+                <element signature="e#16892#20028#0" expanded="false" />
+                <element signature="e#20062#20167#0" expanded="false" />
+                <marker date="1494935111469" expanded="true" signature="7796:7853" ph="select * fro... movie" />
+                <marker date="1494935111469" expanded="true" signature="7879:7943" ph="select * fro... movie" />
+                <marker date="1494935111469" expanded="true" signature="8410:8641" ph="INSERT INTO `movie`... " />
+                <marker date="1494935111469" expanded="true" signature="9209:9477" ph="INSERT INTO `movie`... " />
+                <marker date="1494935111469" expanded="true" signature="9984:10071" ph="select * fro... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="10374:10522" ph="INSERT INTO `movie_tag`... " />
+                <marker date="1494935111469" expanded="true" signature="11062:11108" ph="select count... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="11062:11126" ph="select count... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="11062:11132" ph="select count... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="11062:11151" ph="select count... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="11169:11222" ph="SELECT movie... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="11169:11244" ph="SELECT movie... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="11169:11263" ph="SELECT movie... movie_tag" />
+                <marker date="1494935111469" expanded="true" signature="11169:11273" ph="SELECT movie... movie_tag" />
+                <marker date="1494935111469" expanded="false" signature="17085:17487" ph="INSERT INTO `movie_detail`... " />
+                <marker date="1494935111469" expanded="false" signature="17512:17945" ph="INSERT INTO `movies_moviedetail`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Update_book.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tool/Update_book.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="490" column="20" lean-forward="false" selection-start-line="490" selection-start-column="20" selection-end-line="490" selection-end-column="20" />
+              <folding>
+                <element signature="e#96#107#0" expanded="true" />
+                <element signature="e#533#1637#0" expanded="false" />
+                <element signature="e#561#581#0" expanded="false" />
+                <element signature="e#620#1155#0" expanded="false" />
+                <element signature="e#1202#1310#0" expanded="false" />
+                <element signature="e#1360#1637#0" expanded="false" />
+                <element signature="e#1675#5203#0" expanded="false" />
+                <element signature="e#3983#4445#0" expanded="false" />
+                <element signature="e#4068#4445#0" expanded="false" />
+                <element signature="e#4201#4285#0" expanded="false" />
+                <element signature="e#4352#4445#0" expanded="false" />
+                <element signature="e#5250#6661#0" expanded="false" />
+                <element signature="e#6697#10899#0" expanded="false" />
+                <element signature="e#10937#16821#0" expanded="false" />
+                <element signature="e#16869#20004#0" expanded="false" />
+                <element signature="e#20062#20973#0" expanded="false" />
+                <element signature="e#21007#21610#0" expanded="false" />
+                <marker date="1496150735453" expanded="true" signature="7773:7830" ph="select * fro... movie" />
+                <marker date="1496150735453" expanded="true" signature="7856:7920" ph="select * fro... movies_movie" />
+                <marker date="1496150735453" expanded="true" signature="8387:8618" ph="INSERT INTO `movie`... " />
+                <marker date="1496150735453" expanded="true" signature="9186:9454" ph="INSERT INTO `movies_movie`... " />
+                <marker date="1496150735453" expanded="true" signature="9961:10048" ph="select * fro... movie_tag" />
+                <marker date="1496150735453" expanded="true" signature="10351:10499" ph="INSERT INTO `movie_tag`... " />
+                <marker date="1496150735453" expanded="true" signature="11039:11109" ph="select count... movie_tag" />
+                <marker date="1496150735453" expanded="true" signature="11146:11240" ph="SELECT movie... movie_tag" />
+                <marker date="1496150735453" expanded="true" signature="17062:17464" ph="INSERT INTO `movie_detail`... " />
+                <marker date="1496150735453" expanded="true" signature="17489:17922" ph="INSERT INTO `movies_moviedetail`... " />
+                <marker date="1496150735453" expanded="true" signature="20112:20163" ph="select count... book_bookdetail" />
+                <marker date="1496150735453" expanded="true" signature="20187:20216" ph="SELECT * FRO... book_book" />
+                <marker date="1496150735453" expanded="true" signature="20187:20222" ph="SELECT book_... book_bookdetail" />
+                <marker date="1496150735453" expanded="true" signature="20187:20223" ph="SELECT movie... movie_tag" />
+                <marker date="1496150735453" expanded="true" signature="20395:20440" ph="select * fro... book_book" />
+                <marker date="1496150735453" expanded="true" signature="20698:20745" ph="delete from " />
+                <marker date="1496150735453" expanded="true" signature="21058:21093" ph="SELECT book_... book_book" />
+                <marker date="1496150735453" expanded="true" signature="21402:21434" ph="UPDATE `book... " />
+                <marker date="1496150735453" expanded="true" signature="21402:21501" ph="UPDATE `book... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tag_manager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/movie/tools/Tag_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1587">
+              <caret line="164" column="25" lean-forward="false" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="25" />
+              <folding>
+                <element signature="e#209#1313#0" expanded="false" />
+                <element signature="e#12652#12893#0" expanded="false" />
+                <element signature="e#13008#14109#0" expanded="false" />
+                <marker date="1496121229767" expanded="false" signature="1315:4486" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>movie</find>
+      <find>Tag_manager</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>movie</replace>
+      <replace>book</replace>
+      <replace>TagManager</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/tool/proxy.txt" />
+        <option value="$PROJECT_DIR$/src/tool/proxy1.txt" />
+        <option value="$PROJECT_DIR$/src/movie/proxy1.txt" />
+        <option value="$PROJECT_DIR$/src/movie/movie_detail_catch.py" />
+        <option value="$PROJECT_DIR$/src/step5.py" />
+        <option value="$PROJECT_DIR$/src/tool/ProxyManager.py" />
+        <option value="$PROJECT_DIR$/src/tool/book_detail_catch.py" />
+        <option value="$PROJECT_DIR$/src/step4.py" />
+        <option value="$PROJECT_DIR$/src/step6.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step8_2.py" />
+        <option value="$PROJECT_DIR$/src/step7.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step5_add.py" />
+        <option value="$PROJECT_DIR$/UI_works/test.py" />
+        <option value="$PROJECT_DIR$/douban_book_ui/test_book.py" />
+        <option value="$PROJECT_DIR$/douban_book_ui/book_test_ui.py" />
+        <option value="$PROJECT_DIR$/book_gui/book_ui.py" />
+        <option value="$PROJECT_DIR$/book_gui/book_test_ui.py" />
+        <option value="$PROJECT_DIR$/src/step6_threading.py" />
+        <option value="$PROJECT_DIR$/src/step6_keji.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step3.py" />
+        <option value="$PROJECT_DIR$/src/step1.py" />
+        <option value="$PROJECT_DIR$/src/step3.py" />
+        <option value="$PROJECT_DIR$/src/movie/pic_save.py" />
+        <option value="$PROJECT_DIR$/src/step8.py" />
+        <option value="$PROJECT_DIR$/src/tool/lpic_save.py" />
+        <option value="$PROJECT_DIR$/src/movie/tools/lpic_save.py" />
+        <option value="$PROJECT_DIR$/src/movie/tools/movie_lpic_save.py" />
+        <option value="$PROJECT_DIR$/src/tool/CatchManager.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie__step1.py" />
+        <option value="$PROJECT_DIR$/src/step2.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step2.py" />
+        <option value="$PROJECT_DIR$/src/tool/ExcelManager.py" />
+        <option value="$PROJECT_DIR$/src/add_image_to_bookdetail.py" />
+        <option value="$PROJECT_DIR$/src/pic_save.py" />
+        <option value="$PROJECT_DIR$/src/tool/book_lpic_save.py" />
+        <option value="$PROJECT_DIR$/src/addbook_to_crawler.py" />
+        <option value="$PROJECT_DIR$/src/tool/File_restore_Manager.py" />
+        <option value="$PROJECT_DIR$/src/movie/tools/Db_manager.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step5.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step7.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step6.py" />
+        <option value="$PROJECT_DIR$/src/movie/movie_step8.py" />
+        <option value="$PROJECT_DIR$/src/movie/tools/Update_movie.py" />
+        <option value="$PROJECT_DIR$/gui/book.py" />
+        <option value="$PROJECT_DIR$/src/tool/DbManager.py" />
+        <option value="$PROJECT_DIR$/src/movie/tools/Tag_manager.py" />
+        <option value="$PROJECT_DIR$/src/movie/tools/Update_book.py" />
+        <option value="$PROJECT_DIR$/src/tool/TagManager.py" />
+        <option value="$PROJECT_DIR$/gui/book_test_ui.py" />
+        <option value="$PROJECT_DIR$/src/tool/Update_book.py" />
+        <option value="$PROJECT_DIR$/gui/movie_test_ui.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-30" />
+    <option name="y" value="18" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban_book_catch_zzq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="HelloWorld" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="HelloWorld" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\pythonwork\douban_book_catch_zzq\src\tool" />
+      <recent name="D:\workplace\pythonwork\douban_book_catch_zzq\src\movie\tools" />
+      <recent name="D:\workplace\pythonwork\douban_book_catch_zzq\src\movie" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.movie_test_ui">
+    <configuration default="false" name="movie_test_ui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/movie_test_ui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="book" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Update_movie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/movie/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/movie/tools/Update_movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="book_test_ui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/book_test_ui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Update_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/tool/Update_book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="HelloWorld" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="catch_detail_url" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/tool/catch_detail_url.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.catch_detail_url" />
+      <item index="1" class="java.lang.String" itemvalue="Python.movie_test_ui" />
+      <item index="2" class="java.lang.String" itemvalue="Python.book" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Update_movie" />
+      <item index="4" class="java.lang.String" itemvalue="Python.book_test_ui" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Update_book" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.movie_test_ui" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Update_book" />
+        <item index="2" class="java.lang.String" itemvalue="Python.book_test_ui" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Update_movie" />
+        <item index="4" class="java.lang.String" itemvalue="Python.book" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8bef938-6c4d-4e87-93f8-b361ec9242b1" name="Default" comment="" />
+      <created>1490161545599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490161545599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.01 at 22h 38m 55s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.02 at 10h 00m 24s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.02 at 10h 02m 37s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.02 at 10h 04m 31s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.02 at 10h 40m 47s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.04 at 14h 48m 05s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.04 at 15h 02m 53s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.04 at 16h 39m 41s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Tag_manager_py - 2017.04.06 at 14h 46m 14s.xml">
+      <configuration name="py.test in Tag_manager.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_movie_step3_add_py - 2017.04.03 at 10h 59m 45s.xml">
+      <configuration name="py.test in movie_step3_add.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-30" y="18" width="1370" height="735" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.037404582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.512275" sideWeight="0.36946565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3488372" sideWeight="0.63053435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392028" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969651" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="69" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/tool/HtmlManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie__step1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="57" column="11" lean-forward="false" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/tools/movie_detail_catch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3772">
+          <caret line="193" column="95" lean-forward="false" selection-start-line="193" selection-start-column="79" selection-end-line="193" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/add_image_to_bookdetail.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/66925928/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="4712" column="8" lean-forward="false" selection-start-line="4712" selection-start-column="8" selection-end-line="4712" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/small_pic_save.py" />
+    <entry file="file://$PROJECT_DIR$/src/movie/tools/small_pic_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1004">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/book_detail_url.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/downloadimg.py" />
+    <entry file="file://$PROJECT_DIR$/src/tool/detail_url_threadqueue.py" />
+    <entry file="file://$PROJECT_DIR$/src/tool/catch_detail_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/File_restore_Manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/addbook_to_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="79" column="24" lean-forward="false" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GoodBooks-master/spider_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/book_lpic_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="71" column="36" lean-forward="false" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/tools/movie_lpic_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="69" column="58" lean-forward="true" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/ExcelManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/book_detail_catch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step6_keji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step6_jingguan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/proxy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/proxy1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/ProxyManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/tools/Db_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="63" column="22" lean-forward="true" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-514">
+          <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1288">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GoodBooks-master/qt_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="310" column="52" lean-forward="false" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-718">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/book_slot.py" />
+    <entry file="file://$PROJECT_DIR$/gui/step1.py" />
+    <entry file="file://$PROJECT_DIR$/gui/movie_select.py" />
+    <entry file="file://$PROJECT_DIR$/src/step3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1288">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3227">
+          <caret line="157" column="23" lean-forward="false" selection-start-line="157" selection-start-column="23" selection-end-line="157" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-644">
+          <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/DbManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step3_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/movie_step2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/tools/Tag_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1587">
+          <caret line="164" column="25" lean-forward="false" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="25" />
+          <folding>
+            <element signature="e#209#1313#0" expanded="false" />
+            <element signature="e#12652#12893#0" expanded="false" />
+            <element signature="e#13008#14109#0" expanded="false" />
+            <marker date="1496121229767" expanded="false" signature="1315:4486" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/TagManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4462">
+          <caret line="321" column="214" lean-forward="false" selection-start-line="321" selection-start-column="196" selection-end-line="321" selection-end-column="214" />
+          <folding>
+            <element signature="e#1521#5016#1" expanded="false" />
+            <element signature="e#8062#9646#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie/tools/Update_movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="52" column="49" lean-forward="false" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+          <folding>
+            <element signature="e#94#105#0" expanded="true" />
+            <element signature="e#555#1659#0" expanded="false" />
+            <element signature="e#583#603#0" expanded="false" />
+            <element signature="e#642#1177#0" expanded="false" />
+            <element signature="e#1224#1332#0" expanded="false" />
+            <element signature="e#1382#1659#0" expanded="false" />
+            <element signature="e#1697#5225#0" expanded="false" />
+            <element signature="e#4005#4467#0" expanded="false" />
+            <element signature="e#4090#4467#0" expanded="false" />
+            <element signature="e#4223#4307#0" expanded="false" />
+            <element signature="e#4374#4467#0" expanded="false" />
+            <element signature="e#5272#6684#0" expanded="false" />
+            <element signature="e#6720#10922#0" expanded="false" />
+            <element signature="e#7123#10821#0" expanded="false" />
+            <element signature="e#10960#16844#0" expanded="false" />
+            <element signature="e#11549#16773#0" expanded="false" />
+            <element signature="e#11696#11860#1" expanded="false" />
+            <element signature="e#12425#12482#0" expanded="false" />
+            <element signature="e#12689#12743#0" expanded="false" />
+            <element signature="e#15176#15601#0" expanded="false" />
+            <element signature="e#15673#15742#0" expanded="false" />
+            <element signature="e#15800#16277#0" expanded="false" />
+            <element signature="e#16328#16389#0" expanded="false" />
+            <element signature="e#16892#20028#0" expanded="false" />
+            <element signature="e#20062#20167#0" expanded="false" />
+            <marker date="1494935111469" expanded="true" signature="7796:7853" ph="select * fro... movie" />
+            <marker date="1494935111469" expanded="true" signature="7879:7943" ph="select * fro... movie" />
+            <marker date="1494935111469" expanded="true" signature="8410:8641" ph="INSERT INTO `movie`... " />
+            <marker date="1494935111469" expanded="true" signature="9209:9477" ph="INSERT INTO `movie`... " />
+            <marker date="1494935111469" expanded="true" signature="9984:10071" ph="select * fro... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="10374:10522" ph="INSERT INTO `movie_tag`... " />
+            <marker date="1494935111469" expanded="true" signature="11062:11108" ph="select count... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="11062:11126" ph="select count... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="11062:11132" ph="select count... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="11062:11151" ph="select count... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="11169:11222" ph="SELECT movie... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="11169:11244" ph="SELECT movie... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="11169:11263" ph="SELECT movie... movie_tag" />
+            <marker date="1494935111469" expanded="true" signature="11169:11273" ph="SELECT movie... movie_tag" />
+            <marker date="1494935111469" expanded="false" signature="17085:17487" ph="INSERT INTO `movie_detail`... " />
+            <marker date="1494935111469" expanded="false" signature="17512:17945" ph="INSERT INTO `movies_moviedetail`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tool/Update_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="490" column="20" lean-forward="false" selection-start-line="490" selection-start-column="20" selection-end-line="490" selection-end-column="20" />
+          <folding>
+            <element signature="e#96#107#0" expanded="true" />
+            <element signature="e#533#1637#0" expanded="false" />
+            <element signature="e#561#581#0" expanded="false" />
+            <element signature="e#620#1155#0" expanded="false" />
+            <element signature="e#1202#1310#0" expanded="false" />
+            <element signature="e#1360#1637#0" expanded="false" />
+            <element signature="e#1675#5203#0" expanded="false" />
+            <element signature="e#3983#4445#0" expanded="false" />
+            <element signature="e#4068#4445#0" expanded="false" />
+            <element signature="e#4201#4285#0" expanded="false" />
+            <element signature="e#4352#4445#0" expanded="false" />
+            <element signature="e#5250#6661#0" expanded="false" />
+            <element signature="e#6697#10899#0" expanded="false" />
+            <element signature="e#10937#16821#0" expanded="false" />
+            <element signature="e#16869#20004#0" expanded="false" />
+            <element signature="e#20062#20973#0" expanded="false" />
+            <element signature="e#21007#21610#0" expanded="false" />
+            <marker date="1496150735453" expanded="true" signature="7773:7830" ph="select * fro... movie" />
+            <marker date="1496150735453" expanded="true" signature="7856:7920" ph="select * fro... movies_movie" />
+            <marker date="1496150735453" expanded="true" signature="8387:8618" ph="INSERT INTO `movie`... " />
+            <marker date="1496150735453" expanded="true" signature="9186:9454" ph="INSERT INTO `movies_movie`... " />
+            <marker date="1496150735453" expanded="true" signature="9961:10048" ph="select * fro... movie_tag" />
+            <marker date="1496150735453" expanded="true" signature="10351:10499" ph="INSERT INTO `movie_tag`... " />
+            <marker date="1496150735453" expanded="true" signature="11039:11109" ph="select count... movie_tag" />
+            <marker date="1496150735453" expanded="true" signature="11146:11240" ph="SELECT movie... movie_tag" />
+            <marker date="1496150735453" expanded="true" signature="17062:17464" ph="INSERT INTO `movie_detail`... " />
+            <marker date="1496150735453" expanded="true" signature="17489:17922" ph="INSERT INTO `movies_moviedetail`... " />
+            <marker date="1496150735453" expanded="true" signature="20112:20163" ph="select count... book_bookdetail" />
+            <marker date="1496150735453" expanded="true" signature="20187:20216" ph="SELECT * FRO... book_book" />
+            <marker date="1496150735453" expanded="true" signature="20187:20222" ph="SELECT book_... book_bookdetail" />
+            <marker date="1496150735453" expanded="true" signature="20187:20223" ph="SELECT movie... movie_tag" />
+            <marker date="1496150735453" expanded="true" signature="20395:20440" ph="select * fro... book_book" />
+            <marker date="1496150735453" expanded="true" signature="20698:20745" ph="delete from " />
+            <marker date="1496150735453" expanded="true" signature="21058:21093" ph="SELECT book_... book_book" />
+            <marker date="1496150735453" expanded="true" signature="21402:21434" ph="UPDATE `book... " />
+            <marker date="1496150735453" expanded="true" signature="21402:21501" ph="UPDATE `book... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/movie_test_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="855" column="23" lean-forward="false" selection-start-line="855" selection-start-column="23" selection-end-line="855" selection-end-column="23" />
+          <folding>
+            <element signature="e#200#209#0" expanded="true" />
+            <element signature="e#707#18939#0" expanded="false" />
+            <element signature="e#746#16448#0" expanded="false" />
+            <element signature="e#947#953#0" expanded="false" />
+            <element signature="e#14955#15784#1" expanded="false" />
+            <element signature="e#16499#18939#0" expanded="false" />
+            <element signature="e#16628#16680#0" expanded="false" />
+            <element signature="e#17956#18015#0" expanded="false" />
+            <element signature="e#18997#36757#0" expanded="false" />
+            <element signature="e#19025#19297#0" expanded="false" />
+            <element signature="e#19345#26482#1" expanded="false" />
+            <element signature="e#26487#26526#0" expanded="false" />
+            <element signature="e#26585#29851#0" expanded="false" />
+            <element signature="e#29912#30670#0" expanded="false" />
+            <element signature="e#30732#32361#0" expanded="false" />
+            <element signature="e#31248#31576#1" expanded="false" />
+            <element signature="e#32420#33038#0" expanded="false" />
+            <element signature="e#33106#33864#0" expanded="false" />
+            <element signature="e#33920#34816#0" expanded="false" />
+            <element signature="e#34880#35262#0" expanded="false" />
+            <element signature="e#35321#36057#0" expanded="false" />
+            <element signature="e#36062#36709#1" expanded="false" />
+            <element signature="e#36787#37889#0" expanded="false" />
+            <element signature="e#36815#36835#0" expanded="false" />
+            <element signature="e#36874#37409#0" expanded="false" />
+            <element signature="e#37456#37564#0" expanded="false" />
+            <element signature="e#37614#37889#0" expanded="false" />
+            <element signature="e#37962#38035#0" expanded="false" />
+            <element signature="e#38072#38962#0" expanded="false" />
+            <element signature="e#38998#39227#0" expanded="false" />
+            <element signature="e#39997#40038#0" expanded="false" />
+            <element signature="e#41137#42216#0" expanded="false" />
+            <element signature="e#42342#43088#0" expanded="false" />
+            <element signature="e#43480#45049#0" expanded="false" />
+            <element signature="e#45086#45152#0" expanded="false" />
+            <element signature="e#48857#49574#0" expanded="false" />
+            <element signature="e#49389#49574#0" expanded="false" />
+            <marker date="1496153419302" expanded="true" signature="19394:20727" ph="..." />
+            <marker date="1496153419302" expanded="true" signature="19594:19685" ph="SELECT movie... movie" />
+            <marker date="1496153419302" expanded="true" signature="19736:19832" ph="SELECT movie... movie" />
+            <marker date="1496153419302" expanded="true" signature="21132:21200" ph="SELECT * FRO... movie_detail" />
+            <marker date="1496153419302" expanded="true" signature="21233:21294" ph="SELECT * FRO... movie" />
+            <marker date="1496153419302" expanded="true" signature="21823:21884" ph="SELECT * FRO... movie" />
+            <marker date="1496153419302" expanded="true" signature="21919:21987" ph="SELECT * FRO... movie_detail" />
+            <marker date="1496153419302" expanded="true" signature="22459:22516" ph="SELECT * FRO... movie" />
+            <marker date="1496153419302" expanded="true" signature="22551:22615" ph="SELECT * FRO... movie_detail" />
+            <marker date="1496153419302" expanded="true" signature="23247:23448" ph="..." />
+            <marker date="1496153419302" expanded="true" signature="23509:23644" ph="..." />
+            <marker date="1496153419302" expanded="false" signature="23693:24596" ph="..." />
+            <marker date="1496153419302" expanded="true" signature="23967:24103" ph="INSERT INTO `user_data`... " />
+            <marker date="1496153419302" expanded="false" signature="24117:24450" ph="..." />
+            <marker date="1496153419302" expanded="false" signature="24654:25045" ph="..." />
+            <marker date="1496153419302" expanded="true" signature="24758:24818" ph="DELETE FROM " />
+            <marker date="1496153419302" expanded="true" signature="25171:25195" ph="select * fro... " />
+            <marker date="1496153419302" expanded="true" signature="25171:25196" ph="select * fro... user_data" />
+            <marker date="1496153419302" expanded="true" signature="26800:26876" ph="SELECT movie... movie" />
+            <marker date="1496153419302" expanded="true" signature="26935:27016" ph="SELECT movie... movie" />
+            <marker date="1496153419302" expanded="true" signature="32590:32647" ph="SELECT * FRO... movie" />
+            <marker date="1496153419302" expanded="true" signature="32682:32746" ph="SELECT * FRO... movie_detail" />
+            <marker date="1496153419302" expanded="true" signature="34185:34321" ph="INSERT INTO `user_data`... " />
+            <marker date="1496153419302" expanded="true" signature="34975:35035" ph="DELETE FROM " />
+            <marker date="1496153419302" expanded="true" signature="35387:35412" ph="select * fro... user_data" />
+            <marker date="1496153419302" expanded="true" signature="39812:39882" ph="SELECT * FRO... movies_movie" />
+            <marker date="1496153419302" expanded="true" signature="40122:40186" ph="select * fro... movies_movie" />
+            <marker date="1496153419302" expanded="true" signature="40356:40628" ph="INSERT INTO `movies_movie`... " />
+            <marker date="1496153419302" expanded="true" signature="41156:41226" ph="select * fro... movies_moviedetail" />
+            <marker date="1496153419302" expanded="true" signature="41404:41861" ph="INSERT INTO `movies_moviedetail`... " />
+            <marker date="1496153419302" expanded="true" signature="44020:44099" ph="UPDATE `movi... " />
+            <marker date="1496153419302" expanded="true" signature="44388:44473" ph="UPDATE `movi... " />
+            <marker date="1496153419302" expanded="true" signature="45442:45511" ph="SELECT * FRO... movies_movie" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/book_test_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="874" column="49" lean-forward="false" selection-start-line="874" selection-start-column="49" selection-end-line="874" selection-end-column="49" />
+          <folding>
+            <element signature="e#200#209#0" expanded="true" />
+            <element signature="e#694#16251#0" expanded="false" />
+            <element signature="e#733#13608#0" expanded="false" />
+            <element signature="e#13659#16251#0" expanded="false" />
+            <element signature="e#15895#16251#1" expanded="false" />
+            <element signature="e#16309#34032#0" expanded="false" />
+            <element signature="e#16656#23745#1" expanded="false" />
+            <element signature="e#23846#26981#0" expanded="false" />
+            <element signature="e#24675#25123#0" expanded="false" />
+            <element signature="e#26868#26924#0" expanded="false" />
+            <element signature="e#27042#27802#0" expanded="false" />
+            <element signature="e#27863#29441#0" expanded="false" />
+            <element signature="e#29500#30110#0" expanded="false" />
+            <element signature="e#30176#30841#0" expanded="false" />
+            <element signature="e#30897#32138#0" expanded="false" />
+            <element signature="e#32202#32587#0" expanded="false" />
+            <element signature="e#32646#33379#0" expanded="false" />
+            <element signature="e#33385#34032#1" expanded="false" />
+            <element signature="e#34062#35164#0" expanded="false" />
+            <element signature="e#34090#34110#0" expanded="false" />
+            <element signature="e#34149#34684#0" expanded="false" />
+            <element signature="e#34889#35164#0" expanded="false" />
+            <element signature="e#35347#36235#0" expanded="false" />
+            <element signature="e#36283#36512#0" expanded="false" />
+            <element signature="e#37415#38268#0" expanded="false" />
+            <element signature="e#38336#38427#0" expanded="false" />
+            <element signature="e#40798#40908#0" expanded="false" />
+            <element signature="e#41028#42568#0" expanded="false" />
+            <element signature="e#42605#42671#0" expanded="false" />
+            <element signature="e#42703#45598#0" expanded="false" />
+            <element signature="e#42833#42909#0" expanded="false" />
+            <element signature="e#45628#46307#0" expanded="false" />
+            <element signature="e#46348#47064#0" expanded="false" />
+            <marker date="1496150195636" expanded="true" signature="24039:24111" ph="SELECT book_... book" />
+            <marker date="1496150195636" expanded="true" signature="24162:24239" ph="SELECT book_... book" />
+            <marker date="1496150195636" expanded="true" signature="29669:29723" ph="SELECT * FRO... book" />
+            <marker date="1496150195636" expanded="true" signature="29758:29819" ph="SELECT * FRO... book_detail" />
+            <marker date="1496150195636" expanded="true" signature="31161:31236" ph="select book_... book_tag" />
+            <marker date="1496150195636" expanded="true" signature="31412:31585" ph="INSERT INTO `user_data`... " />
+            <marker date="1496150195636" expanded="true" signature="32296:32357" ph="DELETE FROM " />
+            <marker date="1496150195636" expanded="true" signature="32712:32737" ph="select * fro... user_data" />
+            <marker date="1496150195636" expanded="true" signature="37092:37157" ph="SELECT * FRO... book_book" />
+            <marker date="1496150195636" expanded="true" signature="37427:37486" ph="select * fro... book_book" />
+            <marker date="1496150195636" expanded="true" signature="37644:37858" ph="INSERT INTO `book_book`... " />
+            <marker date="1496150195636" expanded="true" signature="37644:37864" ph="INSERT INTO `book_book`... " />
+            <marker date="1496150195636" expanded="true" signature="37644:37871" ph="INSERT INTO `book_book`... " />
+            <marker date="1496150195636" expanded="true" signature="37644:37926" ph="INSERT INTO `book_book`... " />
+            <marker date="1496150195636" expanded="true" signature="38532:38597" ph="select * fro... book_bookdetail" />
+            <marker date="1496150195636" expanded="true" signature="38775:39231" ph="INSERT INTO `book_bookdetail`... " />
+            <marker date="1496150195636" expanded="true" signature="41561:41635" ph="UPDATE `book... " />
+            <marker date="1496150195636" expanded="true" signature="41922:42002" ph="UPDATE `book... " />
+            <marker date="1496150195636" expanded="true" signature="42958:43022" ph="SELECT * FRO... book_book" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

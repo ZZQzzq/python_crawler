@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/book_select_dic" />
+      <excludeFolder url="file://$MODULE_DIR$/lpic" />
+      <excludeFolder url="file://$MODULE_DIR$/movie_select_dic" />
+      <excludeFolder url="file://$MODULE_DIR$/pic" />
+      <excludeFolder url="file://$MODULE_DIR$/src/book_detail_message" />
+      <excludeFolder url="file://$MODULE_DIR$/src/book_message_order_by_tag" />
+      <excludeFolder url="file://$MODULE_DIR$/src/movie/movie_message_order_by_tag" />
+      <excludeFolder url="file://$MODULE_DIR$/src/movie/movie_message_order_by_year" />
+      <excludeFolder url="file://$MODULE_DIR$/src/movie_detail_message" />
+      <excludeFolder url="file://$MODULE_DIR$/web抓取_book" />
+      <excludeFolder url="file://$MODULE_DIR$/web抓取_电影" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>

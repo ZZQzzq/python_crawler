@@ -1,0 +1,38 @@
+[0322/154223.912:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0322/154238.448:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0326/091525.408:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0326/162958.170:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+
+
+# 写入数据库失败：
+1064：语句格式错误，待插数据中出现冲突字符如‘，“
+解决办法：
+1.在每个插入的属性前面加$
+SELECT keyword,reply,type FROM {$wpdb->weixin_custom_replies} WHERE match = '{$match}' AND status = 1
+2.若插入的数据中出现了单引号'，使用转义\'
+replace("'", "\\'")
+replace('"', '\\"')
+
+1406错误：要插入的数据太长，超过属性列的长度
+解决方法：重新设置属性列的大小。
+
+1366错误：个人感觉是诸如??的表情无法显示的问题
+使用ENGINE=InnoDB DEFAULT utf8mb4 collate utf8mb4_general_ci建立数据库依然出错，不知道怎么办了。。。
+
+
+#写入excel错误：
+excel中不允许插入空list，所以应将抓取到的empty list转换成空字符串或者’-‘
+
+#\xa0，\u3000的含义
+爬豆瓣时发现拿到的内容里面含有\xa0、\u3000这样的字符，起初还以为是编码不对，搜了一下才知道是见识太少233。
+
+==》\xa0是不间断空白符&nbsp;
+我们通常所用的空格是\x20，是在标准ASCII可见字符0x20~0x7e范围内。
+而\xa0属于latin1（ISO/IEC_8859-1）中的扩展字符集字符，代表空白符nbsp(non-breaking space)。
+latin1字符集向下兼容ASCII（0x20~0x7e）。通常我们见到的字符多数是latin1的，比如在MySQL数据库中。
+
+==》\u3000是全角的空白符
+
+根据Unicode编码标准及其基本多语言面的定义，\u3000属于CJK字符的CJK标点符号区块内，是空白字符之一。它的名字是Ideographic Space，有人译作表意字空格、象形字空格等。顾名思义，就是全角的CJK空格。它跟nbsp不一样，是可以被换行间断的。常用于制造缩进，wiki还说用于抬头，但没见过。
+
+

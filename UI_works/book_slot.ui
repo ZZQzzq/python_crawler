@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1258</width>
+    <height>717</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>54</width>
+      <height>12</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>根据</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="selectway_box">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>10</y>
+      <width>69</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_sel">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>20</y>
+      <width>54</width>
+      <height>12</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>查询</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>311</width>
+      <height>411</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="select_gridLayout">
+     <item row="0" column="2">
+      <widget class="QLineEdit" name="lineEdit"/>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="find_but">
+       <property name="text">
+        <string>搜索</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLabel" name="label_3">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="text">
+        <string>书名：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1" colspan="3">
+      <widget class="QTableWidget" name="find_result_table"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>10</y>
+      <width>571</width>
+      <height>471</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="show_gridLayout">
+     <item row="0" column="0">
+      <widget class="QLabel" name="bname">
+       <property name="text">
+        <string>书名：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="5" column="0">
+      <widget class="QLabel" name="byear">
+       <property name="text">
+        <string>出版时间：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="1">
+      <widget class="QLineEdit" name="lineEdit_bprice"/>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="lineEdit_bname"/>
+     </item>
+     <item row="5" column="1">
+      <widget class="QLineEdit" name="lineEdit_byear"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLabel" name="bno">
+       <property name="text">
+        <string>编号：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="0">
+      <widget class="QLabel" name="bprice">
+       <property name="text">
+        <string>价格：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLabel" name="bauthor">
+       <property name="text">
+        <string>作者：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLineEdit" name="lineEdit_bno"/>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLabel" name="bstar">
+       <property name="text">
+        <string>评分：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="7" column="0">
+      <widget class="QLabel" name="bnum">
+       <property name="text">
+        <string>看过：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLineEdit" name="lineEdit_bauthor"/>
+     </item>
+     <item row="3" column="1">
+      <widget class="QLineEdit" name="lineEdit_bstar"/>
+     </item>
+     <item row="4" column="0">
+      <widget class="QLabel" name="bpub">
+       <property name="text">
+        <string>出版社：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="1">
+      <widget class="QLineEdit" name="lineEdit_bpub"/>
+     </item>
+     <item row="12" column="0" colspan="2">
+      <widget class="QPushButton" name="addb_pushB">
+       <property name="text">
+        <string>加入书架</string>
+       </property>
+      </widget>
+     </item>
+     <item row="12" column="2">
+      <widget class="QPushButton" name="delb_pushB">
+       <property name="text">
+        <string>从书架删除</string>
+       </property>
+      </widget>
+     </item>
+     <item row="8" column="1">
+      <widget class="QLineEdit" name="lineEdit_burl"/>
+     </item>
+     <item row="7" column="1">
+      <widget class="QLineEdit" name="lineEdit_bnum"/>
+     </item>
+     <item row="10" column="1">
+      <widget class="QTextEdit" name="book_intro"/>
+     </item>
+     <item row="10" column="0">
+      <widget class="QLabel" name="bintro">
+       <property name="text">
+        <string>书籍简介：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="8" column="0">
+      <widget class="QLabel" name="burl">
+       <property name="text">
+        <string>url:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="11" column="1">
+      <widget class="QTextEdit" name="bookau_intro"/>
+     </item>
+     <item row="11" column="0">
+      <widget class="QLabel" name="bauintro">
+       <property name="text">
+        <string>作者简介：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QLabel" name="bcomment">
+       <property name="text">
+        <string>评价：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="2" rowspan="11">
+      <widget class="QTextEdit" name="book_comment">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_3">
+    <property name="geometry">
+     <rect>
+      <x>910</x>
+      <y>10</y>
+      <width>331</width>
+      <height>471</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="myshelf_gridLayout">
+     <item row="0" column="0">
+      <widget class="QLabel" name="label_shujia">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="text">
+        <string>我的书架：</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QTableWidget" name="bookshelf"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_4">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>490</y>
+      <width>1231</width>
+      <height>171</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="recomm_gridLayout">
+     <item row="0" column="0">
+      <widget class="QTableWidget" name="recomm_table">
+       <property name="contextMenuPolicy">
+        <enum>Qt::DefaultContextMenu</enum>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>460</y>
+      <width>101</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>爬虫窗口</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_1">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>460</y>
+      <width>54</width>
+      <height>12</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>猜你喜欢：</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1258</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>图书</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>电影</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menu_3">
+    <property name="title">
+     <string>推荐</string>
+    </property>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_2"/>
+   <addaction name="menu_3"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>find_but</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>slot_search_keyword()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>280</x>
+     <y>68</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>204</x>
+     <y>54</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>find_result_table</sender>
+   <signal>itemClicked(QTableWidgetItem*)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>slot_click_search_table()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>267</x>
+     <y>249</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>616</x>
+     <y>28</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>addb_pushB</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>slot_join_bookshelf()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>580</x>
+     <y>492</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>879</x>
+     <y>28</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>delb_pushB</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>slot_delete_from_bookshelf()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>795</x>
+     <y>492</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1083</x>
+     <y>23</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>bookshelf</sender>
+   <signal>itemClicked(QTableWidgetItem*)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>slot_click_bookshelf_table()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>990</x>
+     <y>329</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1255</x>
+     <y>405</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>recomm_table</sender>
+   <signal>itemClicked(QTableWidgetItem*)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>slot_click_recommend_table()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>149</x>
+     <y>547</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>178</x>
+     <y>483</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>slot_search_keyword()</slot>
+  <slot>slot_click_search_table()</slot>
+  <slot>slot_join_bookshelf()</slot>
+  <slot>slot_delete_from_bookshelf()</slot>
+  <slot>slot_click_bookshelf_table()</slot>
+  <slot>slot_click_recommend_table()</slot>
+ </slots>
+</ui>
